@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+
+.home{
+    margin: 6.5rem;
+}
+
+.container_home {
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-size: 35px;
+    font-family: 'Fredoka One', cursive;
+    color: rgb(255, 153, 0);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+.container_home span{
+    color: #fff;
+}
+
+.image_home{
+    height: 775px;
+    width: 1161px;
+}

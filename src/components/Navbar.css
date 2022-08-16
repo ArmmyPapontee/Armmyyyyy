@@ -1,0 +1,66 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.logo {
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(0, 204, 255);
+}
+
+.logo span{
+    color: #FFF;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 4rem;
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+div.container a {
+    color: #FFF;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 20px;
+    margin: 0px 20px;
+    padding: 10px 10px;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+}
+
+div.naveffect a:before, div.naveffect a:after {
+    position: absolute;
+    opacity: 0;
+    width: 0%;
+    height: 2px;
+    content: '';
+    background: #FFF;
+    transition: all 0.3s;
+}
+
+div.naveffect a:before {
+    left: 0px;
+    top: 0px;
+}
+
+div.naveffect a:after {
+    right: 0px;
+    bottom: 0px;
+}
+
+div.naveffect a:hover:before, div.naveffect a:hover:after {
+    opacity: 1;
+    width: 100%;
+}
