@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Armmyyyyy/static/css/main.2823d4c5.css",
+    "main.js": "/Armmyyyyy/static/js/main.b4ed0c5a.js",
+    "static/js/787.202b8111.chunk.js": "/Armmyyyyy/static/js/787.202b8111.chunk.js",
+    "static/media/ecom_ex2.png": "/Armmyyyyy/static/media/ecom_ex2.c0e2bf86d7438349cf02.png",
+    "static/media/ecom_ex1.png": "/Armmyyyyy/static/media/ecom_ex1.d007b70ad561d50ca49b.png",
+    "static/media/flutter_ex1.png": "/Armmyyyyy/static/media/flutter_ex1.d48cc83969685d98e9dd.png",
+    "static/media/ecom.png": "/Armmyyyyy/static/media/ecom.bb85ec0c090cf1dfe29a.png",
+    "static/media/wix_ex1.png": "/Armmyyyyy/static/media/wix_ex1.3cb4fd4c9cd02bbf073d.png",
+    "static/media/welcome.png": "/Armmyyyyy/static/media/welcome.20075b0dc790128bb529.png",
+    "static/media/profile.jpg": "/Armmyyyyy/static/media/profile.0f5e95cbfedf614c43c8.jpg",
+    "static/media/react.png": "/Armmyyyyy/static/media/react.f9736c852ee8df4ede69.png",
+    "static/media/flutter.jpg": "/Armmyyyyy/static/media/flutter.15a9960d84de789c3015.jpg",
+    "static/media/wix.jpg": "/Armmyyyyy/static/media/wix.1edc5bdc603ce5166e37.jpg",
+    "static/media/mail.png": "/Armmyyyyy/static/media/mail.a49e015815e3ac6d2bd3.png",
+    "static/media/line.png": "/Armmyyyyy/static/media/line.fc29bdac3f72057af00c.png",
+    "static/media/facebook.png": "/Armmyyyyy/static/media/facebook.795fce8e464693d7346d.png",
+    "index.html": "/Armmyyyyy/index.html",
+    "main.2823d4c5.css.map": "/Armmyyyyy/static/css/main.2823d4c5.css.map",
+    "main.b4ed0c5a.js.map": "/Armmyyyyy/static/js/main.b4ed0c5a.js.map",
+    "787.202b8111.chunk.js.map": "/Armmyyyyy/static/js/787.202b8111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2823d4c5.css",
+    "static/js/main.b4ed0c5a.js"
+  ]
+}
